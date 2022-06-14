@@ -10,7 +10,6 @@
     header #logo a h2{
         font-size: 40px;
         font-weight: bolder;
-        
         }
     header ul{
         flex-direction: column;
@@ -18,8 +17,8 @@
         width: 100%;
         font-size: 40px;
     }
-    .selecionado{
-        padding: 10px 50px; 
+    header ul li a:hover{
+        padding: 10px 55px; 
     }
     .botao{
         font-size: 18px;

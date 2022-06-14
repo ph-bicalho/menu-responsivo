@@ -16,7 +16,7 @@ header #logo a{
 }
 
 header ul{
-    list-style-type:none;
+
     display: flex;
     justify-content: space-evenly;
     
@@ -26,8 +26,9 @@ header ul{
 
 header ul li a{
     padding: 11px 6px;
+    transition: 0.3s ease;
 }
-.botao, .selecionado{
+.botao, header ul li a:hover{
     background: var(--cor-verde-principal);
     color: var(--cor-texto-secundario);
 }

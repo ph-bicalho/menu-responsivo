@@ -1,6 +1,5 @@
 <h1> Menu Responsivo </h1>
 
-
 <p>  
 Exercício feito no Curso DevQuest. Proposto por Roberto Dias e Ricardo Dias (<a href="https://www.youtube.com/c/DevemDobro">dev em dobro</a>) professores do curso <a href="https://hotmart.com/pt-br/marketplace/produtos/devquest-dev-em-dobro/I56659685O"> DevQuest</a>.
 </p>
