@@ -1,0 +1,27 @@
+@media screen and (max-width:785px) {
+    header{
+        flex-direction: column;  
+        max-height: 100vh;
+    }
+    header #logo a{
+        width: 210px;
+        padding:10px 20px;
+    }
+    header #logo a h2{
+        font-size: 40px;
+        font-weight: bolder;
+        
+        }
+    header ul{
+        flex-direction: column;
+        height: 80vh;
+        width: 100%;
+        font-size: 40px;
+    }
+    .selecionado{
+        padding: 10px 50px; 
+    }
+    .botao{
+        font-size: 18px;
+    }
+}

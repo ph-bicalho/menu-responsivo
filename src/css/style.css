@@ -1,0 +1,38 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 45px;
+}
+
+header #logo a{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 145px;
+}
+
+header ul{
+    list-style-type:none;
+    display: flex;
+    justify-content: space-evenly;
+    
+    align-items: center;
+    width: 500px;
+}
+
+header ul li a{
+    padding: 11px 6px;
+}
+.botao, .selecionado{
+    background: var(--cor-verde-principal);
+    color: var(--cor-texto-secundario);
+}
+
+.botao{
+    padding: 11px 21px;
+    border-radius: 10px;
+}
